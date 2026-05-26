@@ -1,0 +1,1 @@
+Maestro OpenCode smoke test
